@@ -22,7 +22,7 @@ This script is part of a larger workflow to manage and maintain TV show collecti
     - Monitors shows tagged with `trakt-premieres` and adds them to the "90-Day Rolling Delete" collection.
     - Automatically deletes unwatched shows older than 90 days.
 
-    > **Maintainerr YAML**: An example configuration for Maintainerr is included in the repository. [View here](maintainerr_premieres_rules_.yaml).
+    > **Maintainerr YAML**: An example configuration for Maintainerr is included in the repository. [View here](maintainerr_premieres_rule_.yaml).
 
 5. **This Script**:
     - Runs daily to check the Trakt list.
