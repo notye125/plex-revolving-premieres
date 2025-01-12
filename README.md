@@ -26,10 +26,10 @@ This script is part of a larger workflow to manage and maintain TV show collecti
 
 5. **This Script**:
     - Runs daily to check the Trakt list.
-    - Removes shows that have aired more than 90 days ago, based on data from TMDb.
+    - Removes shows that have aired more than 90 days ago.
 
 6. **Kometa Collection**:
     - Always displays the freshest series premieres (aired within 90 days), whether watched or unwatched.
 
-[Trakt.tv](https://trakt.tv) | [The Movie Database (TMDb)](https://www.themoviedb.org) | [Kometa](https://kometamp.com) | [Maintainerr](https://maintainerr.com)
+[Trakt.tv](https://trakt.tv) | [Kometa](https://kometamp.com) | [Maintainerr](https://maintainerr.com)
 
