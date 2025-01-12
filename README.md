@@ -1,4 +1,4 @@
-# trakt_list_item_manager
+# Plex Revolving Premieres
 
 ### This workflow creates a dynamic 'Series Premieres' collection on your Plex Server's home tab, showcasing the latest TV show premieres without clutter or wasted space. The collection automatically updates to include only shows that have aired within the last 90 days. Unwatched shows are deleted after 90 days, ensuring efficient space management. Watched shows are retained on your server and can be organized into other automated Kometa collections, while the Series Premieres collection remains fresh and focused on the newest content. View a flow chart [Here](kometa-trakt-list-config.yaml)
 
