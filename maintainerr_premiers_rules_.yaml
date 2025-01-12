@@ -1,0 +1,20 @@
+mediaType: SHOWS
+rules:
+  - "0":
+      - firstValue: Sonarr.tags
+        action: EQUALS
+        customValue:
+          type: text
+          value: trakt-anticipated
+      - operator: AND
+        firstValue: Tautulli.sw_amountOfViews
+        action: EQUALS
+        customValue:
+          type: number
+          value: 0
+      - operator: AND
+        firstValue: Overseerr.isRequested
+        action: NOT_EQUALS
+        customValue:
+          type: boolean
+          value: "true"

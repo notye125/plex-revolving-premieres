@@ -1,0 +1,11 @@
+collections:
+  Series Premiers - 90 Day Trials:
+   trakt_list:
+     - https://trakt.tv/users/{your_user}/lists/Series-Premiers-List
+   sync_mode: sync
+   collection_order: random
+   visible_home: true
+   visible_shared: true
+   visible_library: true
+   sonarr_add_missing: true
+   item_sonarr_tag: trakt-premiers
