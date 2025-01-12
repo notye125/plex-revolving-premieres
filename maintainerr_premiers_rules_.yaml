@@ -5,7 +5,7 @@ rules:
         action: EQUALS
         customValue:
           type: text
-          value: trakt-premier
+          value: trakt-premieres
       - operator: AND
         firstValue: Tautulli.sw_amountOfViews
         action: EQUALS
